@@ -22,11 +22,11 @@ Agora você vai utilizar o relatório do desafio do módulo anterior. Com esse c
 
 ###### ESPECIALISTA
 
-![author](https://hermes.dio.me/users/author/photos/a3d71bed-2938-4df8-95e1-3d4181cad1c3.png)
+! - [author](https://hermes.dio.me/users/author/photos/a3d71bed-2938-4df8-95e1-3d4181cad1c3.png)
 
 ###### Juliana Mascarenhas
 
-Data Scientist, DIO[**](https://www.linkedin.com/in/juliana-mascarenhas-00349426/)
+Data Scientist, DIO - [**](https://www.linkedin.com/in/juliana-mascarenhas-00349426/)
 
 
 
@@ -36,13 +36,13 @@ https://web.dio.me/project/criando-relatorios-dinamicos-com-o-uso-de-parametros-
 
 
 
-[**](https://web.dio.me/track/formacao-power-bi-analyst)
+ - [**](https://web.dio.me/track/formacao-power-bi-analyst)
 
 ##### Criando Relatórios Dinâmicos com o uso de Parâmetros no Power BI
 
 **
 
-[**](https://web.dio.me/lab/criando-relatorios-dinamicos-com-o-uso-de-parametros-1/learning/b9831ad6-0138-45a5-8ab1-959dce21ac5f)[**](https://web.dio.me/lab/criando-relatorios-dinamicos-com-o-uso-de-parametros-1/learning/c60b17ec-368e-4e21-89db-eb6a38105f35)
+ - [**](https://web.dio.me/lab/criando-relatorios-dinamicos-com-o-uso-de-parametros-1/learning/b9831ad6-0138-45a5-8ab1-959dce21ac5f) - [**](https://web.dio.me/lab/criando-relatorios-dinamicos-com-o-uso-de-parametros-1/learning/c60b17ec-368e-4e21-89db-eb6a38105f35)
 
 <iframe id="ytc20" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" title="Criando Relatórios Dinâmicos com o uso de Parâmetros" width="100%" height="100%" src="https://www.youtube.com/embed/IW8DjJpzwhY?controls=0&amp;disablekb=1&amp;enablejsapi=1&amp;fs=0&amp;iv_load_policy=3&amp;modestbranding=1&amp;showinfo=0&amp;rel=0&amp;html5=1&amp;cc_load_policy=0&amp;origin=https%3A%2F%2Fweb.dio.me&amp;widgetid=1" style="box-sizing: inherit; max-width: none; float: none; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-size: 14px; vertical-align: baseline;"></iframe>
 
@@ -67,7 +67,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Criando Relatórios Dinâmicos com o uso de Parâmetros](https://web.dio.me/lab/criando-relatorios-dinamicos-com-o-uso-de-parametros-1/learning/b9831ad6-0138-45a5-8ab1-959dce21ac5f)[Entendendo o desafio](https://web.dio.me/lab/criando-relatorios-dinamicos-com-o-uso-de-parametros-1/learning/c60b17ec-368e-4e21-89db-eb6a38105f35)
+ - [Criando Relatórios Dinâmicos com o uso de Parâmetros](https://web.dio.me/lab/criando-relatorios-dinamicos-com-o-uso-de-parametros-1/learning/b9831ad6-0138-45a5-8ab1-959dce21ac5f) 
+ - [Entendendo o desafio](https://web.dio.me/lab/criando-relatorios-dinamicos-com-o-uso-de-parametros-1/learning/c60b17ec-368e-4e21-89db-eb6a38105f35)
 
 
 
